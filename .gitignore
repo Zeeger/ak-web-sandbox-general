@@ -1,0 +1,33 @@
+# Compiled source
+
+*.com
+*.class
+*.dll
+*.o
+*.so
+
+# Packages
+
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+
+*.log
+*.sql
+*.sqlite
+
+# OS Generated files
+
+Thumbs.db
+
+# output directories
+
+bin/
+obj/
